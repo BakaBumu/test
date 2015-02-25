@@ -12,6 +12,5 @@
 <description lang="en">Example Plugin to show hello world</description>
 <license>GNU General Public License, v2</license>
 <language></language>
-<source>https://github.com/zag2me/plugin.program.hello.world</source>
 </extension>
 </addon>
